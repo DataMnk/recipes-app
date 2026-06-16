@@ -20,8 +20,8 @@ const renderRecipe = async () => {
     document.getElementById('time').textContent = `⏱ Time: ${recipe.time}`
     document.getElementById('ingredients').textContent = `Ingredients: ${recipe.ingredients}`
     document.getElementById('description').textContent = recipe.description
-    document.getElementById('submittedBy').textContent = `Submitted by: ${recipe.submittedBy}`
-    document.getElementById('submittedOn').textContent = `Submitted on: ${recipe.submittedOn}`
+    document.getElementById('submittedBy').textContent = `Submitted by: ${recipe.submittedby}`
+    document.getElementById('submittedOn').textContent = `Submitted on: ${recipe.submittedon}`
     document.title = recipe.name
   } else {
     const msg = document.createElement('h2')
