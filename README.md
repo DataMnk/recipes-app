@@ -1,3 +1,4 @@
+<img width="1180" height="988" alt="RecipesAppPsql" src="https://github.com/user-attachments/assets/c7fd1a96-1d94-45f5-a162-d6935130b13c" />
 # WEB103 Project 2 - Recipes App
 
 Submitted by: **Diana Gomez**
@@ -26,6 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+<img width="1180" height="988" alt="RecipesAppPsql" src="https://github.com/user-attachments/assets/977f7f28-1b72-4832-b362-89d6c3727a4a" />
 
 
 GIF created with ScreenToGif
